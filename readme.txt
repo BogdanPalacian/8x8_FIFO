@@ -1,4 +1,4 @@
-In this folder you will find the implementation of a 8x8 FIFO unit.
+In repository folder you will find the implementation of a 8x8 FIFO unit.
 
 Each folder contains the VHDL code for the needed components as well as the waveforms
 if a testbench and simulation have been performed.
